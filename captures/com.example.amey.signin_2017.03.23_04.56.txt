@@ -1,0 +1,136 @@
+TASK com.example.amey.signin id=11366
+  ACTIVITY com.example.amey.signin/.BroadCast ea0d9e2 pid=10577
+    Local FragmentActivity c3abecb State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@48f675e
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@48f675e
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{c58080c I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{8669b6a V.E..... ... 0,0-1080,1920}
+          android.view.ViewStub{506a85b G.E..... ... 0,0-0,0 #10203bb android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{473e1d1 V.E..... ... 0,60-1080,1920}
+            android.support.v7.widget.ActionBarOverlayLayout{57d6f37 V.E..... ... 0,0-1080,1860 #7f1000b8 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{803ca0d V.E..... ... 0,168-1080,1860 #1020002 android:id/content}
+                android.widget.RelativeLayout{43b2dc2 V.E..... ... 0,0-1080,1692 #7f1000c9 app:id/activity_broad_cast}
+                  android.support.v7.widget.AppCompatButton{b2fc7d3 VFED..C. ... 387,519-651,663 #7f1000ca app:id/abutton}
+              android.support.v7.widget.ActionBarContainer{26c8f10 V.ED.... ... 0,0-1080,168 #7f1000b9 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{22ffa09 V.E..... ... 0,0-1080,168 #7f1000ba app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{892640e V.ED.... ... 48,43-787,124}
+                  android.support.v7.widget.ActionMenuView{1a50e2f V.E..... ... 1080,0-1080,168}
+                android.support.v7.widget.ActionBarContextView{4f38c3c G.E..... ... 0,0-0,0 #7f1000bb app:id/action_context_bar}
+        android.view.View{414b31a V.ED.... ... 0,0-1080,60 #102002f android:id/statusBarBackground}
+
+  ACTIVITY com.example.amey.signin/.userdata 7118510 pid=10577
+    Local FragmentActivity 45be138 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@e8b3028
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@e8b3028
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{dfe141 I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{a529427 V.E..... ... 0,0-1080,1920}
+          android.view.ViewStub{b7726d4 G.E..... ... 0,0-0,0 #10203bb android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{f3e8b72 V.E..... ... 0,60-1080,1920}
+            android.support.v7.widget.ActionBarOverlayLayout{689dc40 V.E..... ... 0,0-1080,1860 #7f1000b8 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{34e7779 V.E..... ... 0,168-1080,1860 #1020002 android:id/content}
+                android.widget.RelativeLayout{f7be11f V.E..... ... 0,0-1080,1692 #7f1000f2 app:id/activity_userdata}
+                  android.support.v7.widget.AppCompatEditText{6b61235 VFED..CL ... 225,153-855,289 #7f1000f3 app:id/name}
+                  android.support.v7.widget.AppCompatEditText{f1016ca VFED..CL ... 225,355-855,491 #7f10002b app:id/add}
+                  android.support.v7.widget.AppCompatEditText{b07703b VFED..CL ... 225,590-855,726 #7f1000f4 app:id/pnum}
+                  android.support.v7.widget.AppCompatEditText{efef358 VFED..CL ... 225,783-855,919 #7f1000f6 app:id/r1num}
+                  android.support.v7.widget.AppCompatEditText{ec29cb1 VFED..CL F.. 225,994-855,1130 #7f1000f5 app:id/r2num}
+                  android.support.v7.widget.AppCompatButton{680d596 VFED..C. ... 408,1241-672,1385 #7f1000f7 app:id/save}
+              android.support.v7.widget.ActionBarContainer{df2d517 V.ED.... ... 0,0-1080,168 #7f1000b9 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{73352ed V.E..... ... 0,0-1080,168 #7f1000ba app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{46cb522 V.ED.... ... 48,43-787,124}
+                  android.support.v7.widget.ActionMenuView{bc5abb3 V.E..... ... 1080,0-1080,168}
+                android.support.v7.widget.ActionBarContextView{cecd570 G.E..... ... 0,0-0,0 #7f1000bb app:id/action_context_bar}
+        android.view.View{e7f30e9 V.ED.... ... 0,0-1080,60 #102002f android:id/statusBarBackground}
+
+  ACTIVITY com.example.amey.signin/.SignupActivity 2933da2 pid=10577
+    Local FragmentActivity d4f8432 State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    Active Fragments in a45016e:
+      #0: zzabm{a1d89c #0 SupportLifecycleFragmentImpl}
+        mFragmentId=#0 mContainerId=#0 mTag=SupportLifecycleFragmentImpl
+        mState=2 mIndex=0 mWho=android:fragment:0 mBackStackNesting=0
+        mAdded=true mRemoving=false mFromLayout=false mInLayout=false
+        mHidden=false mDetached=false mMenuVisible=true mHasMenu=false
+        mRetainInstance=false mRetaining=false mUserVisibleHint=true
+        mFragmentManager=FragmentManager{a45016e in HostCallbacks{990f2a5}}
+        mHost=android.support.v4.app.FragmentActivity$HostCallbacks@990f2a5
+        Child FragmentManager{d43c67a in zzabm{a1d89c}}:
+          FragmentManager misc state:
+            mHost=android.support.v4.app.FragmentActivity$HostCallbacks@990f2a5
+            mContainer=android.support.v4.app.Fragment$2@741e288
+            mParent=zzabm{a1d89c #0 SupportLifecycleFragmentImpl}
+            mCurState=2 mStateSaved=true mDestroyed=false
+    Added Fragments:
+      #0: zzabm{a1d89c #0 SupportLifecycleFragmentImpl}
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@990f2a5
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@990f2a5
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{7431421 I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{a37d046 V.E..... ... 0,0-1080,1920}
+          android.view.ViewStub{75d3207 G.E..... ... 0,0-0,0 #10203bb android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{569f34 V.E..... ... 0,60-1080,1920}
+            android.support.v7.widget.ActionBarOverlayLayout{f9bd15d V.E..... ... 0,0-1080,1860 #7f1000b8 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{a10aad2 V.E..... ... 0,168-1080,1860 #1020002 android:id/content}
+                android.widget.LinearLayout{d90e7a3 V.E..... ... 0,0-1080,1692}
+                  android.widget.LinearLayout{8587aa0 V.E..... ... 0,0-1080,1692}
+                    android.support.v7.widget.AppCompatImageView{ac92659 V.ED.... ... 390,215-690,515}
+                    android.widget.LinearLayout{32aa21e V.E..... ... 48,605-1032,741}
+                      android.support.v7.widget.AppCompatEditText{7c05aff VFED..CL ... 0,0-984,136 #7f100055 app:id/email}
+                    android.widget.LinearLayout{8daa0cc V.E..... ... 48,741-1032,877}
+                      android.support.v7.widget.AppCompatEditText{bdccf15 VFED..CL F.. 0,0-984,136 #7f1000d4 app:id/password}
+                    android.support.v7.widget.AppCompatButton{35ac22a VFED..C. ... 48,925-1032,1069 #7f1000f0 app:id/sign_up_button}
+                    android.support.v7.widget.AppCompatButton{b49a81b VFED..C. ... 48,1129-1032,1273 #7f1000d6 app:id/btn_reset_password}
+                    android.support.v7.widget.AppCompatButton{f76fdb8 VFED..C. ... 48,1333-1032,1477 #7f1000f1 app:id/sign_in_button}
+                  android.widget.ProgressBar{b484791 G.ED.... ... 1080,1542-1170,1632 #7f1000d8 app:id/progressBar}
+              android.support.v7.widget.ActionBarContainer{ebad6f6 V.ED.... ... 0,0-1080,168 #7f1000b9 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{b50aaf7 V.E..... ... 0,0-1080,168 #7f1000ba app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{77a3d64 V.ED.... ... 48,43-787,124}
+                  android.support.v7.widget.ActionMenuView{d18cbcd V.E..... ... 1080,0-1080,168}
+                android.support.v7.widget.ActionBarContextView{f356c82 G.E..... ... 0,0-0,0 #7f1000bb app:id/action_context_bar}
+        android.view.View{f5aff93 V.ED.... ... 0,0-1080,60 #102002f android:id/statusBarBackground}
+
+  ACTIVITY com.example.amey.signin/.LoginActivity b15451 pid=10577
+    Local FragmentActivity 5e416be State:
+      mCreated=truemResumed=false mStopped=true mReallyStopped=true
+      mLoadersStarted=true
+    FragmentManager misc state:
+      mHost=android.support.v4.app.FragmentActivity$HostCallbacks@ef357c9
+      mContainer=android.support.v4.app.FragmentActivity$HostCallbacks@ef357c9
+      mCurState=2 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.PhoneWindow$DecorView{d1cece I.E..... ... 0,0-1080,1920}
+        android.widget.LinearLayout{aadd4fc V.E..... ... 0,0-1080,1920}
+          android.view.ViewStub{9d0a785 G.E..... ... 0,0-0,0 #10203bb android:id/action_mode_bar_stub}
+          android.widget.FrameLayout{b60ce0b V.E..... ... 0,60-1080,1920}
+            android.support.v7.widget.ActionBarOverlayLayout{e8144e8 V.E..... ... 0,0-1080,1860 #7f1000b8 app:id/decor_content_parent}
+              android.support.v7.widget.ContentFrameLayout{3793701 V.E..... ... 0,168-1080,1860 #1020002 android:id/content}
+                android.widget.LinearLayout{c4c3fe7 V.E..... ... 0,0-1080,1692}
+                  android.widget.LinearLayout{b99c794 V.E..... ... 0,0-1080,1692}
+                    android.support.v7.widget.AppCompatImageView{bc1423d V.ED.... ... 390,164-690,464}
+                    android.widget.LinearLayout{ba5fa32 V.E..... ... 48,554-1032,720}
+                      android.support.v7.widget.AppCompatEditText{c92f383 VFED..CL F.. 0,0-984,136 #7f100055 app:id/email}
+                    android.widget.LinearLayout{b15c900 V.E..... ... 48,720-1032,886}
+                      android.support.v7.widget.AppCompatEditText{184c539 VFED..CL ... 0,0-984,136 #7f1000d4 app:id/password}
+                    android.support.v7.widget.AppCompatButton{cb5877e VFED..C. ... 48,946-1032,1090 #7f1000d5 app:id/btn_login}
+                    android.support.v7.widget.AppCompatButton{20744df VFED..C. ... 48,1150-1032,1294 #7f1000d6 app:id/btn_reset_password}
+                    android.support.v7.widget.AppCompatButton{78e752c VFED..C. ... 48,1354-1032,1528 #7f1000d7 app:id/btn_signup}
+                  android.widget.ProgressBar{b637bf5 G.ED.... ... 0,0-0,0 #7f1000d8 app:id/progressBar}
+              android.support.v7.widget.ActionBarContainer{d9e9d8a V.ED.... ... 0,0-1080,168 #7f1000b9 app:id/action_bar_container}
+                android.support.v7.widget.Toolbar{a03b818 V.E..... ... 0,0-1080,168 #7f1000ba app:id/action_bar}
+                  android.support.v7.widget.AppCompatTextView{3ce271 V.ED.... ... 48,43-787,124}
+                  android.support.v7.widget.ActionMenuView{b510856 V.E..... ... 1080,0-1080,168}
+                android.support.v7.widget.ActionBarContextView{a8ef0d7 G.E..... ... 0,0-0,0 #7f1000bb app:id/action_context_bar}
+        android.view.View{9883dc4 V.ED.... ... 0,0-1080,60 #102002f android:id/statusBarBackground}
